@@ -1,0 +1,34 @@
+[00:01:23] [Server thread/WARN]: greronic moved too quickly! 4.655923264315703,1.0013359791121417,8.903521161722892
+[00:01:36] [Server thread/INFO]: Applied effect Nausea to greronic
+[00:03:38] [Server thread/INFO]: greronic was shot by Skeleton
+[00:07:15] [Server thread/INFO]: greronic was shot by Skeleton
+[00:13:31] [Server thread/INFO]: greronic lost connection: Disconnected
+[00:13:31] [Server thread/INFO]: greronic left the game
+[00:14:31] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[00:14:40] [Server thread/INFO]: greronic[/127.164.51.18:44687] logged in with entity id 21166 at (-46.16076535987766, 111.0, 4028.8498972333973)
+[00:14:40] [Server thread/INFO]: greronic joined the game
+[00:19:12] [Server thread/INFO]: Gave 1 [Water Bucket] to greronic
+[00:19:33] [Server thread/INFO]: Can't find element 'minecraft:levitate' of type 'minecraft:mob_effect'
+[00:19:33] [Server thread/INFO]: ...t:levitate 100<--[HERE]
+[00:19:56] [Server thread/INFO]: Applied effect Levitation to greronic
+[00:20:52] [Server thread/INFO]: greronic has completed the challenge [Great View From Up Here]
+[00:21:39] [Server thread/INFO]: greronic fell from a high place
+[00:36:30] [Server thread/INFO]: greronic lost connection: Disconnected
+[00:36:30] [Server thread/INFO]: greronic left the game
+[00:37:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:02:20] [Server thread/INFO]: MitsukiRev[/127.130.216.101:54469] logged in with entity id 27621 at (-47.15118095686211, 111.0, 4025.3113989528197)
+[01:02:20] [Server thread/INFO]: MitsukiRev joined the game
+[01:02:22] [Server thread/INFO]: MitsukiRev lost connection: Disconnected
+[01:02:22] [Server thread/INFO]: MitsukiRev left the game
+[01:03:22] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:06:45] [Server thread/INFO]: Stopping the server
+[01:06:45] [Server thread/INFO]: Stopping server
+[01:06:45] [Server thread/INFO]: Saving players
+[01:06:45] [Server thread/INFO]: Saving worlds
+[01:06:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:06:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[01:06:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[01:06:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:06:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:06:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:06:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
